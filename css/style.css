@@ -1,0 +1,75 @@
+body {
+	font-family: "Lato", sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+
+a {
+	color: #747704;
+	text-decoration: none;
+}
+
+
+hr {
+	height: 1px;
+	background-color: #bcbbbb;
+	border-style: inset;
+}
+
+
+h3 {
+	font-size: 32px;
+	text-transform: uppercase;
+}
+
+
+img,
+embed,
+object,
+video {
+	max-width: 100%;
+}
+
+
+nav a,
+button {
+	min-width: 48px;
+}
+
+
+/* header */
+.title-super {
+	font-size: 32px;
+}
+
+
+.title-logo {
+	margin-top: 20px;
+	min-width: 40px;
+}
+
+
+/* text styles */
+.text-muted{
+	color: #bcbbbb;
+}
+
+
+.text-thin {
+	font-weight: 100;
+}
+
+
+/* spacing styles */
+.no-padding {
+	padding: 0;
+}
+
+
+.no-border {
+	border: 0;
+}
+
+
+
